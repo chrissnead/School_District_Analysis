@@ -1,7 +1,7 @@
 # School_District_Analysis
 
 ## Overview
-The PyCity School District is measuring school budgets and priorities based on standardized test scores and current funding of the school. This project explores using Anaconda and Jupyter Notebook by analyzing school district data in Pandas to make strategic decisions.
+The PyCity School District is measuring school budgets and priorities based on standardized test scores and current funding of the school. This project explores using Anaconda and Jupyter Notebook by analyzing school district data in Pandas and creating DataFrames to make strategic decisions.
 
 ## Results
 
